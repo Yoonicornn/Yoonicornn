@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Yoonjung but you can call me Yoon :)<br><br>- 📚 I'm currently a U4 Computer Engineering student at McGill with a minor in Applied AI<br>- 🔭 I'm looking for intern and full-time roles in data science and machine learning<br>- ⚡ In my free time I like to try out new cafés, go for a jog or just take a nap</p>
+<p align="left">I'm Yoonjung but you can call me Yoon :)<br><br>- 📚 I'm currently a U4 Computer Engineering student at McGill with a minor in Applied AI<br>- 🔭 I'm looking for intern and full-time roles in data science<br>- ⚡ In my free time I like to try out new cafés, go for a jog or just take a nap</p>
 
 ###
 
